@@ -21,7 +21,7 @@ import net.aiscope.gdd_app.ui.main.MainActivity
 import org.hamcrest.CoreMatchers.`is`
 import org.hamcrest.Matchers
 import org.hamcrest.Matchers.allOf
-import org.hamcrest.Matchers.instanceOf
+import org.hamcrest.Matchers.instanceOf 
 import org.junit.Ignore
 import org.junit.Rule
 import org.junit.Test
